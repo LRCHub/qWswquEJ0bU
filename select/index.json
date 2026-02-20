@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DiVE!!",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-02-20T07:34:06.882862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dive",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/01_Dive_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dive - Demo",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/02_Dive_-_Demo_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dive (Demo)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/03_Dive_(Demo)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dive (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/04_Dive_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dive (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/05_Dive_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dive! Dive! Dive!",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/06_Dive!_Dive!_Dive!_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dive! Dive! Dive! (Live)",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/07_Dive!_Dive!_Dive!_(Live)_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dive Into Yesterday",
+      "artist": "Kaleidoscope",
+      "has_synced": true,
+      "path": "select/08_Dive_Into_Yesterday_Kaleidoscope.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dive",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/09_Dive_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dive",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/10_Dive_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dive - 3.35 Edit",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/11_Dive_-_3.35_Edit_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dive (3.35 Edit)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/12_Dive_(3.35_Edit)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Dive",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/13_The_Dive_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Remember Learning How to Dive",
+      "artist": "Animal Collective (feat. Vashti Bunyan)",
+      "has_synced": false,
+      "path": "select/14_I_Remember_Learning_How_to_Dive_Animal_Collective_(feat._Vashti_Bunyan).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dive",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/15_Dive_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dive",
+      "artist": "Bassnectar feat. RD",
+      "has_synced": true,
+      "path": "select/16_Dive_Bassnectar_feat._RD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DiVE!!",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_DiVE!!_天月-あまつき-.txt"
+    }
+  ]
+}
